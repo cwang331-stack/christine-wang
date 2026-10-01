@@ -1,3 +1,5 @@
+in this project, I added code so when you click the button, the counter goes up by one, and will print out the number of how many time you hit the button.
+
 # CMPM 121 Section Activity starter
 
 This is the Fall 2026 S01 starter for making a small interactive page and learning the path from a local edit to a published site. The course template is public: you do **not** need to join the course GitHub organization. Create a **public** repository under your own GitHub account using the template's **Use this template → Create a new repository** button.
